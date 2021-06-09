@@ -11,3 +11,6 @@ https://xie.infoq.cn/article/b4904c8e7aa2d8413bc06316f
 
 3、生成代码视频:
 https://github.com/sleuth-io/code-video-generator
+
+4、一键上传
+https://github.com/phbai/xigua-upload
