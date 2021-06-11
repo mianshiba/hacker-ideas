@@ -12,6 +12,8 @@ https://easytailwind.vercel.app/
 
 https://tailblocks.cc/  这个拿来即用
 
+https://github.com/liupan1890/xiaobaiyang2   flutter 全栈
+
 alpine js 中文手册 : https://www.alpinejs.cn/#x-data
 
 ## wasm
