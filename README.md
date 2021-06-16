@@ -1,3 +1,4 @@
+![dev4life](https://cdn.jsdelivr.net/gh/mianshiba/pics/dev4life%40%E8%8D%89%E6%96%99%E4%BA%8C%E7%BB%B4%E7%A0%81.vuf4qh2yb8.png)
 # hacker-ideas
 一些公开的产品idea
 
